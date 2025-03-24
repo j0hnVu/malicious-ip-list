@@ -1,5 +1,5 @@
 # Malicious IPs List
-This repository contains a list of malicious IP addresses that have attempted to brute-force SSH access to my VPS. The goal is to document and share these IPs to help others secure their systems against similar attacks.
+This repository contains a list of malicious IP addresses that have attempted to brute-force SSH access to my VPS. The goal is to document and share these IPs to help others secure their systems against similar attacks. These lists (a.k.a *.log file) are automatically updated at midnight everyday.
 
 # Structure
 The repository includes the following files:
